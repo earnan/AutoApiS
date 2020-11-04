@@ -1,3 +1,4 @@
+earnan@cancer.onmicrosoft.com
 # AutoApiS-超级版
 
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
